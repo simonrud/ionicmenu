@@ -1,0 +1,8 @@
+{
+  "name": "ionicmenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "34c9e7e2"
+}
